@@ -2,3 +2,5 @@ tilesets
 level_data/level1.tmx
 level_data/level2.tmx
 level_data/level3.tmx
+.gitignore
+__pycache__
